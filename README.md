@@ -1,2 +1,2 @@
 # CardViewTest
-This is my exercise tutorial for CardView 
+This is just my exercise of tutorial.
